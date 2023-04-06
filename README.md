@@ -8,4 +8,4 @@ The data covers information from 1998 to 2018 and also has three additionally po
 
 **For this Final Project I used *asia-industry* dataset and perform analysis on both Stata and Python (*on The Jupyter Notebook platform*)**
 
-Data Source: World Bank's Global Economic Monitor database. https://osf.io/hwgnb/
+*Data Source*: World Bank's Global Economic Monitor database. https://osf.io/hwgnb/
